@@ -1,7 +1,7 @@
 // Welcome to WorkPad
 // Start coding here...
 
-public class TwoSumSortedTwoPointerApproach {
+public class  2-two-sum-ii---input-array-is-sorted {
     public static void main(String[] args) {
         System.out.println(twoSum(new int[] {1,2,3,4,5,6},9));
        
