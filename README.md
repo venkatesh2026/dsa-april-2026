@@ -8,4 +8,3 @@
 
 | # | Problem | Difficulty | LeetCode | Solution | Date Solved | Notes |
 |---|---------|-----------|----------|----------|-------------|-------|
-| 1 | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/1-two-sum.java?raw=true) | May 17, 2026 | using hashmap since ,elements are not sorted, else we can use two pointer approach |
