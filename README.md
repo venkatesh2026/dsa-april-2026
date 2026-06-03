@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 3/147 problems  
+**Solved:** 4/147 problems  
 **Last Updated:** Jun 3, 2026
 
 ## Solutions
