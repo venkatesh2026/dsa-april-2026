@@ -14,9 +14,9 @@ public class MultipleMajorityElements {
         }
         int candidate1 = nums[0];
         int candidate2 = nums[0];
-        int count1 = 1;
+        int count1 = 0;
         int count2 = 0;
-        for (int i = 1; i < nums.length; i++) {
+        for (int i = 0; i < nums.length; i++) {
             if (count1 > 0 && candidate1 == nums[i]) {//4,3,2,4
                 count1++;
             } else if (count2 > 0 && candidate2 == nums[i]) {
