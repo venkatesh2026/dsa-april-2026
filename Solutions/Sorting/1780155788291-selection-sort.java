@@ -11,18 +11,18 @@ public class SelectionSort {
     }
 
     public static void selectionSort(int[] nums) {
-        for (int i = 0; i < nums.length - 1; i++) {
-            int maxElementIndex = -1;
-            int maxElement = Integer.MIN_VALUE;
-            for (int j = 0; j < nums.length - i; j++) {
-                if (nums[j] > maxElement) {
-                    maxElement = nums[j];
-                    maxElementIndex = j;
+        int length = nums.length;
+        for (int i = 0; i < length - 1; i++) {
+            int maxIndex = 0;
+            //considering element at index 0 is max so,starting loop from index 1
+            for (int j = 1; j < length - i; j++) {
+                if (nums[j] > nums[maxIndex]) {
+                    maxIndex = j;
                 }
             }
-            int temp = nums[nums.length - 1 - i];
-            nums[nums.length - 1 - i] = maxElement;
-            nums[maxElementIndex] = temp;
+            int temp = nums[length - 1 - i];
+            nums[length - 1 - i] = nums[maxIndex];
+            nums[maxIndex] = temp;
         }
     }
 }
