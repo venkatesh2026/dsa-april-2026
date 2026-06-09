@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 8/148 problems  
+**Solved:** 9/148 problems  
 **Last Updated:** Jun 9, 2026
 
 ## Solutions
@@ -18,3 +18,4 @@
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/4-product-of-array-except-self.java?raw=true) | Jun 9, 2026 | left product and right product of array |
 | 1 | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/1-two-sum.java?raw=true) | Jun 9, 2026 | Using map |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/2-two-sum-ii-input-array-is-sorted.java?raw=true) | Jun 9, 2026 | using two pointer opposite ends |
+| 26 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/3-remove-duplicates-from-sorted-array.java?raw=true) | Jun 9, 2026 | - |
