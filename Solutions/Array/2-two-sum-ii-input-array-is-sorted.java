@@ -1,25 +1,26 @@
-// Welcome to WorkPad
-// Start coding here...
+import java.util.Arrays;
 
-public class  2-two-sum-ii---input-array-is-sorted {
+public class TwoSumSortedArrayWithoutExtraSpace {
     public static void main(String[] args) {
-        System.out.println(twoSum(new int[] {1,2,3,4,5,6},9));
-       
+
+        int[] nums = {2, 7, 11, 15};
+        int target = 9;
+        System.out.println(Arrays.toString(twoSum(nums, target)));
+
     }
 
-    public static int[] twoSum(int[] nums,int target) {
-        int left=0,right=nums.length-1;
-        while(left < right) {
-            int sum = nums[left]+nums[right];
-            if(sum == target) {
-                return new int[] {left+1,right+1};
-            }
-            if(sum > target) {
-                right--;
-            } else {
+    public static int[] twoSum(int[] nums, int target) {
+        int left = 0, right = nums.length - 1;
+        while (left < right) {
+            int currentSum = nums[left] + nums[right];
+            if (target == currentSum) {
+                return new int[]{left + 1, right + 1};
+            } else if (target > currentSum) {
                 left++;
+            } else {
+                right--;
             }
         }
-        return null;
+        return new int[]{};
     }
 }
