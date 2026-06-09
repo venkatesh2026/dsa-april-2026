@@ -14,4 +14,4 @@
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/15-majority-element-ii.java?raw=true) | Jun 4, 2026 | multiple majority elements where appearance of element > n/3 times(max 2 elements available such), |
 | 3 | Insertion sort | Medium | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1781005779845-insertion-sort.java?raw=true) | Jun 9, 2026 | Insertion sort |
 | 2 | Selection sort | Easy | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1780155788291-selection-sort.java?raw=true) | Jun 9, 2026 | Selection sort |
-| 1 | Bubble sort | Easy | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1780154124831-bubble-sort.java?raw=true) | Jun 9, 2026 | bubble sort |
+| 1 | Bubble sort | Easy | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1780154124831-bubble-sort.java?raw=true) | Jun 9, 2026 | bubble sort with and without flag |
