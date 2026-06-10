@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 11/148 problems  
-**Last Updated:** Jun 9, 2026
+**Solved:** 12/148 problems  
+**Last Updated:** Jun 10, 2026
 
 ## Solutions
 
@@ -20,3 +20,4 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/3-remove-duplicates-from-sorted-array.java?raw=true) | Jun 9, 2026 | - |
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/4-product-of-array-except-self.java?raw=true) | Jun 9, 2026 | left product and right product of array |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/5-container-with-most-water.java?raw=true) | Jun 9, 2026 | two pointers opp ends |
+| 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/8-move-zeroes.java?raw=true) | Jun 10, 2026 | Using two pointers |
