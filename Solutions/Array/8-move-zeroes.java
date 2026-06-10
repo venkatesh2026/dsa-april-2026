@@ -1,31 +1,40 @@
-import java.util.Arrays;
+// Welcome to WorkPad
+// Start coding here...
+import java.util.*;
 
-public class 8-move-zeroes{
-
-    /*
-    * Input: nums = [0,1,0,3,12]
-Output: [1,3,12,0,0]
-    * */
-
+public class MoveZerosToEnd {
     public static void main(String[] args) {
-        int[] nums = {0, 1, 0, 2, 3, 0, 4};
-        moveZeroes(nums);
+        // Your code here
+        int[] nums = {1,0,2,3,4,0,5,0,8,9};
+        moveZerosSinglePass(nums);
         System.out.println(Arrays.toString(nums));
-
-
     }
 
-    public static void moveZeroes(int[] nums) {
-        int slow = 0, fast = 0;
-
-        while (fast < nums.length) {
-            if (nums[fast]!=0) {
-                int temp = nums[slow];
-                nums[slow] = nums[fast];
-                nums[fast] = temp;
-                slow++;
+    public static void moveZeros(int[] nums) {
+        int k = 0;
+        for(int i = 0;i<nums.length;i++) {
+            if(nums[i]!=0) {
+                nums[k]=nums[i];
+                k++;
             }
-            fast++;
+        }
+        for(;k<nums.length;k++){
+            nums[k]=0;
+        }
+    }
+
+        public static void moveZerosSinglePass(int[] nums) {
+        int k = 0;
+        for(int i = 0;i<nums.length;i++) {
+            if(nums[i]!=0) {
+                //if already in place no need to do self swap
+                if(i!=k) {
+                    int temp = nums[k];
+                nums[k]=nums[i];
+                nums[i]=temp;
+                }
+                k++;
+            }
         }
     }
 }
