@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 17/148 problems  
+**Solved:** 18/148 problems  
 **Last Updated:** Jun 11, 2026
 
 ## Solutions
@@ -26,3 +26,4 @@
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/6-trapping-rain-water.java?raw=true) | Jun 11, 2026 | By calculating prefix and suffix max of each element |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/16-longest-consecutive-sequence.java?raw=true) | Jun 11, 2026 | Using set |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/18-longest-substring-without-repeating-characters.java?raw=true) | Jun 11, 2026 | Using set |
+| 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/12-sort-colors.java?raw=true) | Jun 11, 2026 | in first pass count the number of zeros, once and twos ,in 2nd pass fill the respective counts |
