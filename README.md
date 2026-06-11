@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 16/148 problems  
+**Solved:** 17/148 problems  
 **Last Updated:** Jun 11, 2026
 
 ## Solutions
@@ -25,3 +25,4 @@
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/10-missing-number.java?raw=true) | Jun 10, 2026 | Using both  first n natural numbers formula and XOR(^) bitwise operator approach |
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/6-trapping-rain-water.java?raw=true) | Jun 11, 2026 | By calculating prefix and suffix max of each element |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/16-longest-consecutive-sequence.java?raw=true) | Jun 11, 2026 | Using set |
+| 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/18-longest-substring-without-repeating-characters.java?raw=true) | Jun 11, 2026 | Using set |
