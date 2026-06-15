@@ -2,7 +2,7 @@
 
 ## Progress
 **Solved:** 18/148 problems  
-**Last Updated:** Jun 11, 2026
+**Last Updated:** Jun 15, 2026
 
 ## Solutions
 
@@ -20,10 +20,10 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/3-remove-duplicates-from-sorted-array.java?raw=true) | Jun 9, 2026 | - |
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/4-product-of-array-except-self.java?raw=true) | Jun 9, 2026 | left product and right product of array |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/5-container-with-most-water.java?raw=true) | Jun 9, 2026 | two pointers opp ends |
-| 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/8-move-zeroes.java?raw=true) | Jun 10, 2026 | Using two pointers |
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/9-group-anagrams.java?raw=true) | Jun 10, 2026 | Using frequency count |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/10-missing-number.java?raw=true) | Jun 10, 2026 | Using both  first n natural numbers formula and XOR(^) bitwise operator approach |
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/6-trapping-rain-water.java?raw=true) | Jun 11, 2026 | By calculating prefix and suffix max of each element |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/16-longest-consecutive-sequence.java?raw=true) | Jun 11, 2026 | Using set |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/18-longest-substring-without-repeating-characters.java?raw=true) | Jun 11, 2026 | Using set |
 | 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/12-sort-colors.java?raw=true) | Jun 11, 2026 | in first pass count the number of zeros, once and twos ,in 2nd pass fill the respective counts |
+| 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/8-move-zeroes.java?raw=true) | Jun 15, 2026 | one pointer to hold index of non zero element index and other to scan the array |
