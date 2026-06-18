@@ -1,29 +1,26 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 18/148 problems  
-**Last Updated:** Jun 15, 2026
+**Solved:** 16/145 problems  
+**Last Updated:** Jun 18, 2026
 
 ## Solutions
 
 | # | Problem | Difficulty | LeetCode | Solution | Date Solved | Notes |
 |---|---------|-----------|----------|----------|-------------|-------|
-| 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/11-top-k-frequent-elements.java?raw=true) | Jun 3, 2026 | Using first Hashmap for element and its frequncy look ups and second Hashmap for frequency and associated elements look ups |
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/7-rotate-array.java?raw=true) | Jun 3, 2026 | Its done in 3 steps  1.Reverse entire array, 2.reverse first 0 to k-1 elements,3.reverse k to n-1 elements. |
+| 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/11-top-k-frequent-elements.java?raw=true) | Jun 3, 2026 | Using first Hashmap for element and its frequncy look ups and second Hashmap for frequency and associated elements look ups |
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/14-majority-element.java?raw=true) | Jun 4, 2026 | assuming first element as majority element and increase/decrease count based further comparison |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/15-majority-element-ii.java?raw=true) | Jun 4, 2026 | multiple majority elements where appearance of element > n/3 times(max 2 elements available such), |
-| 3 | Insertion sort | Medium | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1781005779845-insertion-sort.java?raw=true) | Jun 9, 2026 | Insertion sort |
-| 2 | Selection sort | Easy | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1780155788291-selection-sort.java?raw=true) | Jun 9, 2026 | Selection sort |
-| 1 | Bubble sort | Easy | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1780154124831-bubble-sort.java?raw=true) | Jun 9, 2026 | bubble sort with and without flag |
-| 1 | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/1-two-sum.java?raw=true) | Jun 9, 2026 | Using map |
+| 1 | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1780154124831-bubble-sort.java?raw=true) | Jun 9, 2026 | bubble sort with and without flag |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/2-two-sum-ii-input-array-is-sorted.java?raw=true) | Jun 9, 2026 | using two pointer opposite ends |
 | 26 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/3-remove-duplicates-from-sorted-array.java?raw=true) | Jun 9, 2026 | - |
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/4-product-of-array-except-self.java?raw=true) | Jun 9, 2026 | left product and right product of array |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/5-container-with-most-water.java?raw=true) | Jun 9, 2026 | two pointers opp ends |
+| 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1781005779845-insertion-sort.java?raw=true) | Jun 9, 2026 | Insertion sort |
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/9-group-anagrams.java?raw=true) | Jun 10, 2026 | Using frequency count |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/10-missing-number.java?raw=true) | Jun 10, 2026 | Using both  first n natural numbers formula and XOR(^) bitwise operator approach |
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/6-trapping-rain-water.java?raw=true) | Jun 11, 2026 | By calculating prefix and suffix max of each element |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/16-longest-consecutive-sequence.java?raw=true) | Jun 11, 2026 | Using set |
-| 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/18-longest-substring-without-repeating-characters.java?raw=true) | Jun 11, 2026 | Using set |
-| 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/12-sort-colors.java?raw=true) | Jun 11, 2026 | in first pass count the number of zeros, once and twos ,in 2nd pass fill the respective counts |
 | 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/8-move-zeroes.java?raw=true) | Jun 15, 2026 | one pointer to hold index of non zero element index and other to scan the array |
+| 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/12-sort-colors.java?raw=true) | Jun 18, 2026 | in first pass count the number of zeros, once and twos ,in 2nd pass fill the respective counts |
