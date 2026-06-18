@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 17/145 problems  
+**Solved:** 18/145 problems  
 **Last Updated:** Jun 18, 2026
 
 ## Solutions
@@ -17,7 +17,6 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/3-remove-duplicates-from-sorted-array.java?raw=true) | Jun 9, 2026 | - |
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/4-product-of-array-except-self.java?raw=true) | Jun 9, 2026 | left product and right product of array |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/5-container-with-most-water.java?raw=true) | Jun 9, 2026 | two pointers opp ends |
-| 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Sorting/1781005779845-insertion-sort.java?raw=true) | Jun 9, 2026 | Insertion sort |
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/9-group-anagrams.java?raw=true) | Jun 10, 2026 | Using frequency count |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/10-missing-number.java?raw=true) | Jun 10, 2026 | Using both  first n natural numbers formula and XOR(^) bitwise operator approach |
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/6-trapping-rain-water.java?raw=true) | Jun 11, 2026 | By calculating prefix and suffix max of each element |
@@ -27,3 +26,4 @@
 | 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/19-maximum-subarray.js?raw=true) | Jun 18, 2026 | Using pointers left,tight (to represent first and last columns) and top,bottom(to represent first and last rows) |
 | 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/13-spiral-matrix.js?raw=true) | Jun 18, 2026 | Using pointers left,tight (to represent first and last columns) and top,bottom(to represent first and last rows) |
 | 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/17-longest-common-prefix.js?raw=true) | Jun 18, 2026 | - |
+| 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/18-longest-substring-without-repeating-characters.js?raw=true) | Jun 18, 2026 | Using set |
