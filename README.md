@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 16/145 problems  
+**Solved:** 17/145 problems  
 **Last Updated:** Jun 18, 2026
 
 ## Solutions
@@ -25,3 +25,4 @@
 | 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/8-move-zeroes.java?raw=true) | Jun 15, 2026 | one pointer to hold index of non zero element index and other to scan the array |
 | 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/12-sort-colors.java?raw=true) | Jun 18, 2026 | in first pass count the number of zeros, once and twos ,in 2nd pass fill the respective counts |
 | 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/19-maximum-subarray.js?raw=true) | Jun 18, 2026 | Using pointers left,tight (to represent first and last columns) and top,bottom(to represent first and last rows) |
+| 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/13-spiral-matrix.js?raw=true) | Jun 18, 2026 | Using pointers left,tight (to represent first and last columns) and top,bottom(to represent first and last rows) |
