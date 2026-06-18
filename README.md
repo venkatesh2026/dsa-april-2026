@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 18/145 problems  
+**Solved:** 19/145 problems  
 **Last Updated:** Jun 18, 2026
 
 ## Solutions
@@ -27,3 +27,4 @@
 | 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/13-spiral-matrix.js?raw=true) | Jun 18, 2026 | Using pointers left,tight (to represent first and last columns) and top,bottom(to represent first and last rows) |
 | 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/17-longest-common-prefix.js?raw=true) | Jun 18, 2026 | - |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/18-longest-substring-without-repeating-characters.js?raw=true) | Jun 18, 2026 | Using set |
+| 151 | Reverse Words in a String | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/20-reverse-words-in-a-string.js?raw=true) | Jun 18, 2026 | - |
