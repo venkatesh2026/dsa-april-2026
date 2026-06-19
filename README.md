@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 21/145 problems  
+**Solved:** 22/145 problems  
 **Last Updated:** Jun 19, 2026
 
 ## Solutions
@@ -23,10 +23,10 @@
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/16-longest-consecutive-sequence.java?raw=true) | Jun 11, 2026 | Using set |
 | 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/Solutions/Array/8-move-zeroes.java?raw=true) | Jun 15, 2026 | one pointer to hold index of non zero element index and other to scan the array |
 | 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/12-sort-colors.java?raw=true) | Jun 18, 2026 | in first pass count the number of zeros, once and twos ,in 2nd pass fill the respective counts |
-| 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/19-maximum-subarray.js?raw=true) | Jun 18, 2026 | Using pointers left,tight (to represent first and last columns) and top,bottom(to represent first and last rows) |
 | 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/13-spiral-matrix.js?raw=true) | Jun 18, 2026 | Using pointers left,tight (to represent first and last columns) and top,bottom(to represent first and last rows) |
 | 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/17-longest-common-prefix.js?raw=true) | Jun 18, 2026 | - |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/18-longest-substring-without-repeating-characters.js?raw=true) | Jun 18, 2026 | Using set |
 | 151 | Reverse Words in a String | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/20-reverse-words-in-a-string.js?raw=true) | Jun 18, 2026 | - |
 | 853 | Car Fleet | Medium | [Link](https://leetcode.com/problems/car-fleet/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/30-car-fleet.js?raw=true) | Jun 19, 2026 | Sorting positions |
 | 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/22-is-subsequence.js?raw=true) | Jun 19, 2026 | Using two pointers |
+| 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/19-maximum-subarray.js?raw=true) | Jun 19, 2026 | maintain two fields maximum and currentSum ,when you see new value in array check newVal > newVal+currentSum ,if true update currentSum=newVal ,else expand array and add newValue to currentSum(currentSum=newVal+currentSum)  |
