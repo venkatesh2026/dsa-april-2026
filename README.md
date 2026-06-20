@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 22/145 problems  
-**Last Updated:** Jun 19, 2026
+**Solved:** 23/145 problems  
+**Last Updated:** Jun 20, 2026
 
 ## Solutions
 
@@ -30,3 +30,4 @@
 | 853 | Car Fleet | Medium | [Link](https://leetcode.com/problems/car-fleet/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/30-car-fleet.js?raw=true) | Jun 19, 2026 | Sorting positions |
 | 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/22-is-subsequence.js?raw=true) | Jun 19, 2026 | Using two pointers |
 | 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/19-maximum-subarray.js?raw=true) | Jun 19, 2026 | maintain two fields maximum and currentSum ,when you see new value in array check newVal > newVal+currentSum ,if true update currentSum=newVal ,else expand array and add newValue to currentSum(currentSum=newVal+currentSum) and after each iteration check currentSum > maximum it true update currentSum as maximum else maximum remains maximum of array position 0 till current i  |
+| 155 | Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/26-min-stack.js?raw=true) | Jun 20, 2026 | Using two list implementation of stack and min stack |
