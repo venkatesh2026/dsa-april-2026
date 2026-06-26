@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 23/146 problems  
-**Last Updated:** Jun 24, 2026
+**Solved:** 25/146 problems  
+**Last Updated:** Jun 26, 2026
 
 ## Solutions
 
@@ -32,3 +32,4 @@
 | 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/19-maximum-subarray.js?raw=true) | Jun 19, 2026 | maintain two fields maximum and currentSum ,when you see new value in array check newVal > newVal+currentSum ,if true update currentSum=newVal ,else expand array and add newValue to currentSum(currentSum=newVal+currentSum) and after each iteration check currentSum > maximum it true update currentSum as maximum else maximum remains maximum of array position 0 till current i  |
 | 155 | Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/26-min-stack.js?raw=true) | Jun 20, 2026 | Using two list implementation of stack and min stack |
 | 41 | Find missing positive integer | Hard | [Link](https://leetcode.com/problems/first-missing-positive/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/1782318565423-find-missing-positive-integer.java?raw=true) | Jun 24, 2026 | Using cyclic sort in first loop and second loop for checking numbers 1 to n  |
+| 739 | Daily Temperatures | Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/29-daily-temperatures.java?raw=true) | Jun 26, 2026 | Using monotonic decreasing stack(stack stores elements in decreasing order) |
