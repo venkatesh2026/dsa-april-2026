@@ -2,7 +2,7 @@
 
 ## Progress
 **Solved:** 27/146 problems  
-**Last Updated:** Jun 26, 2026
+**Last Updated:** Jun 30, 2026
 
 ## Solutions
 
@@ -35,3 +35,4 @@
 | 739 | Daily Temperatures | Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/29-daily-temperatures.java?raw=true) | Jun 26, 2026 | Using monotonic decreasing stack(stack stores elements in decreasing order) |
 | 1679 | Max Number of K-Sum Pairs | Medium | [Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/23-max-number-of-k-sum-pairs.js?raw=true) | Jun 26, 2026 | Using hashMap |
 | 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/21-string-compression.java?raw=true) | Jun 26, 2026 | Using two pointers |
+| 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/33-implementation.java?raw=true) | Jun 30, 2026 | - |
