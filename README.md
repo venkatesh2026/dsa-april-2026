@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 29/146 problems  
+**Solved:** 30/146 problems  
 **Last Updated:** Jun 30, 2026
 
 ## Solutions
@@ -37,3 +37,4 @@
 | 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Array/21-string-compression.java?raw=true) | Jun 26, 2026 | Using two pointers |
 | 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/33-implementation.java?raw=true) | Jun 30, 2026 | - |
 | 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Jun 30, 2026 | - |
+| 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/35-reverse-linked-list.java?raw=true) | Jun 30, 2026 | Using previous,current and next pointers |
