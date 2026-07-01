@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 30/146 problems  
-**Last Updated:** Jun 30, 2026
+**Solved:** 31/146 problems  
+**Last Updated:** Jul 1, 2026
 
 ## Solutions
 
@@ -38,3 +38,4 @@
 | 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/33-implementation.java?raw=true) | Jun 30, 2026 | - |
 | 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Jun 30, 2026 | - |
 | 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/35-reverse-linked-list.java?raw=true) | Jun 30, 2026 | Using previous,current and next pointers |
+| 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/36-merge-two-sorted-lists.java?raw=true) | Jul 1, 2026 | Using dummy node to traverse |
