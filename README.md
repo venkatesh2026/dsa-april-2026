@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 32/146 problems  
-**Last Updated:** Jul 1, 2026
+**Solved:** 33/146 problems  
+**Last Updated:** Jul 7, 2026
 
 ## Solutions
 
@@ -40,3 +40,4 @@
 | 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/35-reverse-linked-list.java?raw=true) | Jun 30, 2026 | Using previous,current and next pointers |
 | 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/36-merge-two-sorted-lists.java?raw=true) | Jul 1, 2026 | Using dummy node to traverse |
 | 143 | Reorder List | Medium | [Link](https://leetcode.com/problems/reorder-list/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/37-reorder-list.java?raw=true) | Jul 1, 2026 | Using dummy node |
+| 141 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/38-linked-list-cycle.java?raw=true) | Jul 7, 2026 | slow and fast pointer |
