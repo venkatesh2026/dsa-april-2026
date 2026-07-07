@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 34/146 problems  
+**Solved:** 35/146 problems  
 **Last Updated:** Jul 7, 2026
 
 ## Solutions
@@ -42,3 +42,4 @@
 | 143 | Reorder List | Medium | [Link](https://leetcode.com/problems/reorder-list/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/37-reorder-list.java?raw=true) | Jul 1, 2026 | Using dummy node |
 | 141 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/38-linked-list-cycle.java?raw=true) | Jul 7, 2026 | slow and fast pointer |
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/39-linked-list-cycle-ii.java?raw=true) | Jul 7, 2026 | Using two pointer approach |
+| 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/40-find-the-duplicate-number.java?raw=true) | Jul 7, 2026 | Using two pointer floyd's algorithm |
