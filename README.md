@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 35/146 problems  
-**Last Updated:** Jul 7, 2026
+**Solved:** 36/146 problems  
+**Last Updated:** Jul 9, 2026
 
 ## Solutions
 
@@ -43,3 +43,4 @@
 | 141 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/38-linked-list-cycle.java?raw=true) | Jul 7, 2026 | slow and fast pointer |
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/39-linked-list-cycle-ii.java?raw=true) | Jul 7, 2026 | Using two pointer approach |
 | 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/40-find-the-duplicate-number.java?raw=true) | Jul 7, 2026 | Using two pointer floyd's algorithm |
+| 160 | Intersection of Two Linked Lists | Easy | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/43-intersection-of-two-linked-lists.java?raw=true) | Jul 9, 2026 | - |
