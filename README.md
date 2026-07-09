@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 36/146 problems  
+**Solved:** 37/146 problems  
 **Last Updated:** Jul 9, 2026
 
 ## Solutions
@@ -44,3 +44,4 @@
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/39-linked-list-cycle-ii.java?raw=true) | Jul 7, 2026 | Using two pointer approach |
 | 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/40-find-the-duplicate-number.java?raw=true) | Jul 7, 2026 | Using two pointer floyd's algorithm |
 | 160 | Intersection of Two Linked Lists | Easy | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/43-intersection-of-two-linked-lists.js?raw=true) | Jul 9, 2026 | first solution using  two passes with count difference and 2nd approach with single pass |
+| 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.js?raw=true) | Jul 9, 2026 | Using two pointers |
