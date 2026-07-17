@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 39/146 problems  
-**Last Updated:** Jul 13, 2026
+**Solved:** 40/146 problems  
+**Last Updated:** Jul 17, 2026
 
 ## Solutions
 
@@ -47,3 +47,4 @@
 | 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.js?raw=true) | Jul 9, 2026 | Using two pointers |
 | 146 | LRU Cache | Medium | [Link](https://leetcode.com/problems/lru-cache/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/41-lru-cache.java?raw=true) | Jul 10, 2026 | Using hashmap and custom double linked list |
 | 1472 | Design Browser History | Medium | [Link](https://leetcode.com/problems/design-browser-history/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/45-design-browser-history.java?raw=true) | Jul 13, 2026 | double linked list |
+| 460 | LFU Cache | Hard | [Link](https://leetcode.com/problems/lfu-cache/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/44-lfu-cache.java?raw=true) | Jul 17, 2026 | Using two 3 hashmaps  |
