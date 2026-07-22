@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 40/146 problems  
-**Last Updated:** Jul 17, 2026
+**Solved:** 41/146 problems  
+**Last Updated:** Jul 22, 2026
 
 ## Solutions
 
@@ -48,3 +48,4 @@
 | 146 | LRU Cache | Medium | [Link](https://leetcode.com/problems/lru-cache/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/41-lru-cache.java?raw=true) | Jul 10, 2026 | Using hashmap and custom double linked list |
 | 1472 | Design Browser History | Medium | [Link](https://leetcode.com/problems/design-browser-history/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/45-design-browser-history.java?raw=true) | Jul 13, 2026 | double linked list |
 | 460 | LFU Cache | Hard | [Link](https://leetcode.com/problems/lfu-cache/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Linked%20List/44-lfu-cache.java?raw=true) | Jul 17, 2026 | Using two 3 hashmaps  |
+| 78 | Subsets | Medium | [Link](https://leetcode.com/problems/subsets/) | [Code](https://raw.githubusercontent.com/venkatesh2026/dsa-april-2026/main/solutions/Recursion/47-subsets.java?raw=true) | Jul 22, 2026 | Using recursion pick and non pick |
