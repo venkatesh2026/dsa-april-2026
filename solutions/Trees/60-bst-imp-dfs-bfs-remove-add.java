@@ -53,6 +53,33 @@ public class BinarySearchTreeImplementation {
         return false;
     }
 
+    public List<List<Integer>> bfs(Node root) {
+        List<List<Integer>> result = new ArrayList<>();
+        if (root == null) {
+            return result;
+        }
+        Queue<Node> queue = new LinkedList<>();
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            int levelSize = queue.size();
+            List<Integer> levelResult = new ArrayList<>();
+            while (levelSize > 0) {
+                Node levelNode = queue.poll();
+                levelResult.add(levelNode.val);
+                levelSize--;
+                if (levelNode.left != null) {
+                    queue.add(levelNode.left);
+                }
+                if (levelNode.right != null) {
+                    queue.add(levelNode.right);
+                }
+            }
+            result.add(levelResult);
+        }
+        return result;
+
+    }
+
 
 
     public static class Node {
@@ -77,5 +104,6 @@ public class BinarySearchTreeImplementation {
         System.out.println(root);
         System.out.println(bstImpl.search(9));
         System.out.println(bstImpl.search(12));
+        List<List<Integer>> lists = bstImpl.levelOrder(bstImpl.root);
     }
 }
